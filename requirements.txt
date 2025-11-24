@@ -1,0 +1,7 @@
+numpy
+jupyter
+matplotlib
+h5py
+torch
+torchvision
+nltk
